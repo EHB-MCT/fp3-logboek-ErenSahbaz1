@@ -2,7 +2,8 @@
 
 _Instructie (schrijf in bullets waar je aan gewerkt hebt):_
 
-- design voor de website, coderen van html css en consistent toepassing van design, script voor usertest geschreven
+- Vandaag heb ik gewerkt aan het ontwerpen van de website en ervoor gezorgd dat het design consistent werd toegepast in zowel de HTML- als CSS-code. Ik heb tijd besteed aan het verfijnen van details, zoals de lay-out en visuele elementen, om ervoor te zorgen dat alles goed aansluit bij de gewenste gebruikerservaring. Daarnaast heb ik een script geschreven voor een usertest, waarbij ik specifieke stappen en vragen heb opgesteld om waardevolle feedback te verzamelen van potentiële gebruikers.
+
   > **Activiteiten:** Branch: goedmaaklied
   > goedmaaklied.html
   > goedmaaklied.css
@@ -13,8 +14,9 @@ _Instructie (schrijf in bullets waar je aan gewerkt hebt):_
 ## 2) Wat heb ik nieuw geleerd of voor het eerst zelf gedaan?
 
 > **Nieuwe skills:**
-> Das de eerste keer dat ik een script voor USERTESTING heb geschreven, het ging goed.
->
+
+- Het schrijven van een script voor USERTESTING was nieuw voor mij, en ik heb geleerd hoe ik gestructureerde vragen kan formuleren die gericht zijn op het verkrijgen van bruikbare inzichten. Ik voelde me zelfverzekerd tijdens het proces en ben tevreden met het resultaat. Dit was een waardevolle ervaring die ik in toekomstige projecten zeker zal toepassen.
+
 > -
 
 ---
