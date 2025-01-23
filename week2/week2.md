@@ -1,3 +1,9 @@
+**Datum:** `[20/01/2025]`  
+**Studentnaam:** `[Eren Sahbaz]`  
+**Groepsnaam:** `[Jasons]`
+
+---
+
 ## 1) Wat heb ik vandaag gedaan voor mijn project?
 
 _Instructie (schrijf in bullets waar je aan gewerkt hebt):_
