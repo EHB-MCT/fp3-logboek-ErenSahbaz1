@@ -44,3 +44,52 @@ _Instructie:_
 > - **"Gefrustreerd"** :zap:
 
 ---
+
+**Datum:** `[28/01/2025]`  
+**Studentnaam:** `[Eren Sahbaz]`  
+**Groepsnaam:** `[Jasons]`
+
+---
+
+## 1) Wat heb ik vandaag gedaan voor mijn project?
+
+_Instructie (schrijf in bullets waar je aan gewerkt hebt):_
+
+-Ik heb gewerkt aan de "Over Ons" en "Home" pagina’s van het project. Hier heb ik zowel de content als de structuur verder uitgewerkt en verbeterd.
+
+- Samen met Achraf heb ik onderzoek gedaan naar het publiceren van ons project via GitHub Pages, zodat het online toegankelijk wordt. Helaas is het ons nog niet gelukt om dit volledig te implementeren (WIP).
+
+-Ik heb onnodige bestanden verwijderd uit de back-end van het project om de codebase schoner en overzichtelijker te maken. Hierdoor is de structuur efficiënter geworden, en dit zal het onderhoud van de code in de toekomst vergemakkelijken.
+
+> **Activiteiten:**
+> Branch: main, home desktop
+
+> index.html
+> styles.css
+> overons.html
+> overons.css
+> /back-end
+
+---
+
+## 2) Wat heb ik nieuw geleerd of voor het eerst zelf gedaan?
+
+> **Nieuwe skills:**
+
+-Ik heb me verdiept in het publiceren van een website op GitHub Pages met behulp van GitHub Actions. Hoewel het proces nog niet volledig gelukt is (WIP), heb ik al beter inzicht gekregen in hoe je een CI/CD-pipeline kunt opzetten om een project automatisch te laten publiceren.
+
+---
+
+## 3) Wat is mijn gevoel over vandaag?
+
+_Instructie:_
+
+- Noteer in 1 zin hoe je je voelt.
+- Voeg een kleur of symbool toe dat je stemming weergeeft (bijv. een donderwolk bij boosheid of een happy smiley als je tevreden bent).
+
+> **Algmeeen gevoel:** Ik voel me ok, ik ben blij we werken goed maar er is nog veel te doen. :D
+
+> - **"Blij"** :smiley:
+> - **"Gefrustreerd"** :zap:
+
+---
