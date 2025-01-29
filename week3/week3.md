@@ -93,3 +93,52 @@ _Instructie:_
 > - **"Gefrustreerd"** :zap:
 
 ---
+
+**Datum:** `[29/01/2025]`  
+**Studentnaam:** `[Eren Sahbaz]`  
+**Groepsnaam:** `[Jasons]`
+
+---
+
+## 1) Wat heb ik vandaag gedaan voor mijn project?
+
+_Instructie (schrijf in bullets waar je aan gewerkt hebt):_
+
+-Ik heb de HTML en CSS geschreven voor de Over ons-pagina en de Herstel-pagina, waardoor deze nu een duidelijke structuur en opmaak hebben.
+
+-Ik heb de navigatie aangepast en gecorrigeerd, aangezien deze verkeerd was georganiseerd. Nu werkt het menu zoals bedoeld en is de gebruikerservaring verbeterd.
+
+-Ik heb sociale media posts gemaakt, waarin ik de belangrijkste aspecten van het project op een aantrekkelijke manier heb gepresenteerd.
+
+> **Activiteiten:**
+> Branch: main
+
+> herstel.html
+> herstel.css
+> overons.html
+> overons.css
+> /back-end
+
+---
+
+## 2) Wat heb ik nieuw geleerd of voor het eerst zelf gedaan?
+
+> **Nieuwe skills:**
+
+- Ik heb geleerd hoe ik sociale media posts kan maken die specifiek gericht zijn op een doelgroep van 8-12 jaar. Hierbij heb ik rekening gehouden met de taal, visuele elementen en tone of voice die deze leeftijdsgroep aanspreken.
+
+---
+
+## 3) Wat is mijn gevoel over vandaag?
+
+_Instructie:_
+
+- Noteer in 1 zin hoe je je voelt.
+- Voeg een kleur of symbool toe dat je stemming weergeeft (bijv. een donderwolk bij boosheid of een happy smiley als je tevreden bent).
+
+> **Algmeeen gevoel:** Goed, alles gaat goed in onze groep we zijn bijna klaar met alles ik ben blij. :D
+
+> - **"Blij"** :smiley:
+> - **"Gefrustreerd"** :zap:
+
+---
