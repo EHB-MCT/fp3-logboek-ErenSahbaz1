@@ -131,12 +131,53 @@ _Instructie (schrijf in bullets waar je aan gewerkt hebt):_
 
 ## 3) Wat is mijn gevoel over vandaag?
 
-_Instructie:_
-
-- Noteer in 1 zin hoe je je voelt.
-- Voeg een kleur of symbool toe dat je stemming weergeeft (bijv. een donderwolk bij boosheid of een happy smiley als je tevreden bent).
-
 > **Algmeeen gevoel:** Goed, alles gaat goed in onze groep we zijn bijna klaar met alles ik ben blij. :D
+
+> - **"Blij"** :smiley:
+> - **"Gefrustreerd"** :zap:
+
+---
+
+**Datum:** `[30/01/2025]`  
+**Studentnaam:** `[Eren Sahbaz]`  
+**Groepsnaam:** `[Jasons]`
+
+---
+
+## 1) Wat heb ik vandaag gedaan voor mijn project?
+
+_Instructie (schrijf in bullets waar je aan gewerkt hebt):_
+
+-Backgrounds toegevoegd op elke pagina van de website, zodat het ontwerp visueel consistenter is.
+-De HTML en CSS van de Sorrybrief-pagina afgerond en geoptimaliseerd voor desktopweergave.
+-Een presentatie gemaakt om mijn project overzichtelijk en gestructureerd te presenteren.
+-Een bugfix uitgevoerd op de Herstel-pagina, zodat alles nu correct functioneert.
+-De wrapper op de AVI-pagina gefixt, zodat de lay-out weer goed uitgelijnd is.
+-Node modules correct ingesteld in de .gitignore om onnodige bestanden uit de repository te houden.
+-De back-end gedeployed op Render, zodat de server online en toegankelijk is.
+
+> **Activiteiten:**
+> Branch: main
+
+> herstel.html
+> herstel.css
+> overons.html
+> overons.css
+> /back-end
+
+---
+
+## 2) Wat heb ik nieuw geleerd of voor het eerst zelf gedaan?
+
+> **Nieuwe skills:**
+
+- Voor het eerst een presentatie gemaakt op basis van een bestaande stijlgids, waarbij ik ervoor heb gezorgd dat de vormgeving en inhoud consistent blijven met de visuele identiteit van het project.
+
+---
+
+## 3) Wat is mijn gevoel over vandaag?
+
+> **Algmeeen gevoel:** We hebben heel hard gewerkt tot 3u s'nachts ik ben trots op ons :D
 
 > - **"Blij"** :smiley:
 > - **"Gefrustreerd"** :zap:
